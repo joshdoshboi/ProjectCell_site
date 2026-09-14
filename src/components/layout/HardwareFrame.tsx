@@ -85,3 +85,4 @@ export const HardwareFrame: React.FC<HardwareFrameProps> = ({
     </section>
   );
 };
+

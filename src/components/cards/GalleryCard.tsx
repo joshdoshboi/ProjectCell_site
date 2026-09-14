@@ -163,3 +163,4 @@ export const GalleryCard: React.FC<GalleryCardProps> = ({ artifact, onInspect })
     </div>
   );
 };
+

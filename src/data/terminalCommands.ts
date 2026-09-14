@@ -209,3 +209,4 @@ export const executeTerminalCommand = (rawCommand: string): TerminalResponse => 
       };
   }
 };
+

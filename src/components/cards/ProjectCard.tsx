@@ -69,3 +69,4 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, onOpenSchemat
     </div>
   );
 };
+

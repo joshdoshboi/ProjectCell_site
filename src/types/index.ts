@@ -83,3 +83,4 @@ export interface TerminalOutputLine {
   text: string;
   color?: string;
 }
+

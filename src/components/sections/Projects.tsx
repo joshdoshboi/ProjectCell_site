@@ -49,3 +49,4 @@ export const Projects: React.FC = () => {
     </div>
   );
 };
+

@@ -65,3 +65,4 @@ export const CRTScreen: React.FC<CRTScreenProps> = ({
     </div>
   );
 };
+

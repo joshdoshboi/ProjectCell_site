@@ -100,3 +100,4 @@ export const Terminal: React.FC = () => {
     </div>
   );
 };
+

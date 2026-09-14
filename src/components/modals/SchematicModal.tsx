@@ -134,3 +134,4 @@ export const SchematicModal: React.FC<SchematicModalProps> = ({ project, onClose
     </div>
   );
 };
+

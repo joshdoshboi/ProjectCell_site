@@ -56,3 +56,4 @@ export const Team: React.FC = () => {
     </div>
   );
 };
+

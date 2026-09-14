@@ -25,3 +25,4 @@ export const HazardBadge: React.FC<HazardBadgeProps> = ({
     </div>
   );
 };
+

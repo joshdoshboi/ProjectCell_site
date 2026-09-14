@@ -109,3 +109,4 @@ export const RosterModal: React.FC<RosterModalProps> = ({ division, onClose }) =
     </div>
   );
 };
+
