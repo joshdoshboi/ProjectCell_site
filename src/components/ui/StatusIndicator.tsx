@@ -67,3 +67,4 @@ export const StatusIndicator: React.FC<StatusIndicatorProps> = ({
     </span>
   );
 };
+

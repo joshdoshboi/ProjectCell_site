@@ -122,3 +122,4 @@ The layout has been designed and verified for:
 - Mobile: `480px`, `375px`
 - Mobile navigation drawer collapses cleanly into a hardware switch tray.
 - Zero horizontal overflow.
+

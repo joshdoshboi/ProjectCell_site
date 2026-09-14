@@ -25,3 +25,4 @@ export const Vent: React.FC<VentProps> = ({
     </div>
   );
 };
+

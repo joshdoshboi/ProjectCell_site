@@ -36,3 +36,4 @@ export const HardwareScrew: React.FC<HardwareScrewProps> = ({
     </div>
   );
 };
+

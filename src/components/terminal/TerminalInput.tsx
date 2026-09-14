@@ -48,3 +48,4 @@ export const TerminalInput: React.FC<TerminalInputProps> = ({
     </form>
   );
 };
+

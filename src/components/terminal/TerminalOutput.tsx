@@ -33,3 +33,4 @@ export const TerminalOutput: React.FC<TerminalOutputProps> = ({ history }) => {
     </div>
   );
 };
+

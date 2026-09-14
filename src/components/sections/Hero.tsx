@@ -50,3 +50,4 @@ export const Hero: React.FC<HeroProps> = ({ crtFxEnabled = true }) => {
     </div>
   );
 };
+
